@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialogue"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    android:background="#1e1441">
+
+    <ImageView
+        android:id="@+id/img_View"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/win_loose_View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="#393368"
+        android:gravity="center_horizontal"
+        android:textAllCaps="true"
+        android:textColor="#FFF9C4"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:text="Player 1 Wins" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_transparent_background"
+        android:text="@string/ok"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"/>
+
+</LinearLayout>

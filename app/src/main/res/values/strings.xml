@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="reset_board">Reset Board</string>
+    <string name="_o">O</string>
+    <string name="computer">Computer</string>
+    <string name="x">X</string>
+    <string name="_0">0</string>
+    <string name="choose_option">Choose Option:</string>
+    <string name="select_board_size">Select Board Size:</string>
+    <string name="its_A_Draw">Its a Draw !!!!</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="ok">OK</string>
+    <string name="wins">WINS</string>
+    <string name="computerWins">Computer WINS</string>
+    <string name="ComputerWon">Computer Win. You lose</string>
+    <string name="baby">baby</string>
+    <string name="player_name">Player Name:</string>
+    <string name="enter_name">Enter name</string>
+    <string name="three_by_three">3 x 3</string>
+    <string name="five_by_five">5 x 5</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+
+</resources>

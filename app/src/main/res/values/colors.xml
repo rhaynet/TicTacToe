@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="game_button_bg">#f7f6f6</color>
+    <color name="TextColor">#FF4081</color>
+    <color name="background_win">#81C784</color>
+    <color name="checkmate">#cf0426</color>
+    <color name="white">#ffffff</color>
+    <color name="win_lose_bg">#1e1441</color>
+    <color name="win_lose_text_color">#FFF9C4</color>
+</resources>
